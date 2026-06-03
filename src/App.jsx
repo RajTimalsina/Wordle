@@ -180,7 +180,7 @@ export default function App() {
   }
 
   return (
-    <div className="flex flex-col items-center py-2 h-screen max-h-screen relative overflow-hidden bg-[var(--color-brand-bg)]">
+    <div className="flex flex-col items-center py-2 h-[100dvh] max-h-[100dvh] relative overflow-hidden bg-[var(--color-brand-bg)]">
       <header className="flex justify-between items-center w-full max-w-md px-4 mb-2 border-b border-slate-700/50 pb-2">
         <button 
           onClick={handleHint}
