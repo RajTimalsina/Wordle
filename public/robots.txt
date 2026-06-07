@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wordle.rajtimalsina.com.np/sitemap.xml
